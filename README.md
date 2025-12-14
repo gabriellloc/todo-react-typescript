@@ -7,10 +7,10 @@ A aplicação permite gerenciar tarefas de forma simples, aplicando conceitos fu
 
 ## 🚀 Ferramentas/Tecnologias utilizadas
 
-- React — Biblioteca para construção de interfaces de usuário.
-- TypeScript — Tipagem estática para maior segurança e escalabilidade
-- Vite — Bundler moderno com build rápido e eficiente
-- React Router — Gerenciamento de rotas da aplicação.
+- React: Biblioteca para construção de interfaces de usuário.
+- TypeScript: Tipagem estática para maior segurança e escalabilidade
+- Vite: Bundler moderno com build rápido e eficiente
+- React Router: Gerenciamento de rotas da aplicação.
 - Node.js & npm: Gerenciamento de dependências e execução dos scripts do projeto.
 - Visual Studio Code: Ambiente de desenvolvimento utilizado para escrever e organizar o código.
 

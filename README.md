@@ -38,15 +38,17 @@ npm install
 ```
 **OBS**: Para utilizar os comandos do npm, é necessário ter o Node.js instalado na máquina.
 
-Edite o código na pasta src/:
-Após realizar as alterações. gere a versão final com:
+Edite o código na pasta <code>src/</code>.
+
+Após realizar as alterações, gere a versão final com:
 
 ```bash
 npm run build
 ```
-Esse comando compila os arquivos e envia as modificações para a pasta docs/, que funciona como saída principal do projeto.
 
-Visualizar as modificações em tempo real:
+Esse comando compila os arquivos e envia as modificações para a pasta <code>dist/</code>, que funciona como saída principal do projeto.
+
+Visualizar as modificações em tempo real:<br>
 Execute o comando:
 ```bash
 npm run dev

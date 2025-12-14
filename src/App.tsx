@@ -5,7 +5,7 @@ import PageHome from "./pages/page-home";
 
 export default function App() {
   return (
-		<BrowserRouter>
+		<BrowserRouter basename={import.meta.env.BASE_URL}>
 			<Routes>
 				<Route element={<LayoutMain />}>
 					<Route index element={<PageHome />} />

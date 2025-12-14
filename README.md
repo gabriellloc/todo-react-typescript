@@ -28,7 +28,7 @@ A aplicação permite gerenciar tarefas de forma simples, aplicando conceitos fu
 ### Clone o repositório:
 
 ```bash
-git clone https://github.com/gabriellloc/pagina-cancelamento.git
+git clone https://github.com/gabriellloc/todo-react-typescript.git
 ```
 Instale as dependências:
 No console, execute:

@@ -1,9 +1,8 @@
-
-<span style="text-align: center;">
+<div align="center"> 
 
 # 📋 ToDo-React-Typescript
 
-</span>
+</div>
 
 ## 📄 Descrição
 Projeto de uma aplicação ToDo List desenvolvida como parte dos estudos na **Rocketseat**, com foco em boas práticas de desenvolvimento front-end utilizando React, TypeScript e Vite.<br>
